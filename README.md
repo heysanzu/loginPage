@@ -1,6 +1,10 @@
 ## Login Page
 A modern, responsive login interface featuring a glassmorphism design, custom CSS animations, and a clean user experience.
 
+<p align="centre">
+  <img src="cover.png" alt="cover" width="800">
+</p>
+
 ### Features:
 * **Glassmorphism UI**: Uses `backdrop-filter: blur` to create a frosted glass effect over a background image.
 * **Animated Input Fields**: Labels transition and shrink when fields are focused or contain valid text.
